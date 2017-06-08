@@ -1,0 +1,14 @@
+{
+  "name": "munroe-js",
+  "version": "1.0.0",
+  "description": "A small js lib to get xkcd data. Yeah, I know... I just wanted to have my own.",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Kuznik <pawel.kuznik@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
